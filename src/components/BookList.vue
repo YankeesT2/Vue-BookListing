@@ -18,10 +18,7 @@
 </script>
 
 <style>
-  h1 {
-    font-weight: normal;
-  }
-
+  h1,
   h2 {
     font-weight: normal;
   }
