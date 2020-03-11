@@ -10,7 +10,7 @@
   export default 
   {
     name: 'BookForm',
-    prop: ['books'],
+    props: ['books'],
     data() {
       return {
         bookTitle: '',
